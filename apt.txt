@@ -10,4 +10,7 @@ xfce4
 firefox
 
 #music player
-cmus
+#cmus
+
+#tools
+strace #Debian/Ubuntu

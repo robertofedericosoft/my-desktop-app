@@ -16,5 +16,5 @@ firefox
 strace #Debian/Ubuntu
 
 #
-add-apt-repository
+software-properties-common
 code

@@ -17,4 +17,5 @@ strace #Debian/Ubuntu
 
 #
 software-properties-common
+libglu1-mesa 
 

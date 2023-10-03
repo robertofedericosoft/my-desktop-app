@@ -7,3 +7,4 @@ dependencies:
   - pip:
       - jupyter-remote-desktop-proxy
   - ipywidgets
+  - ocl-icd-system

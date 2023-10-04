@@ -6,5 +6,7 @@ dependencies:
   - pip
   - pip:
       - jupyter-remote-desktop-proxy
+      - xpresso
+      - uvicorn
   - ipywidgets
   - ocl-icd-system

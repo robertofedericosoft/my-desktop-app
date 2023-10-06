@@ -15,6 +15,7 @@ firefox
 #tools
 strace #Debian/Ubuntu
 bc
+snap
 
 #
 software-properties-common

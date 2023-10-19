@@ -19,5 +19,7 @@ snapd
 
 #
 software-properties-common
-libglu1-mesa 
+#libglu1-mesa 
+gnome-terminal
+
 

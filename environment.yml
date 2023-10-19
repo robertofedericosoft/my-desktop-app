@@ -5,10 +5,8 @@ dependencies:
   - websockify
   - pip
   - pip:
-      - jupyter-remote-desktop-proxy
-      - xpresso   
-      - flask==3.0.0
-      - importlib-metadata==6.8.0 
+      - jupyter-remote-desktop-proxy 
+      - importlib-metadata>=6.8.0 
   - ipywidgets
   - ocl-icd-system
  

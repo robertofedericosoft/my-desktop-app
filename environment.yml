@@ -7,6 +7,7 @@ dependencies:
   - pip:
       - jupyter-remote-desktop-proxy 
       - importlib-metadata>=6.8.0 
+      - distro
   - ipywidgets
   - ocl-icd-system
  

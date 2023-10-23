@@ -11,6 +11,7 @@ firefox
 
 #music player
 #cmus
+libsox-fmt-all
 
 #tools
 strace #Debian/Ubuntu

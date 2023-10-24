@@ -7,6 +7,7 @@ xubuntu-icon-theme
 xfce4
 
 # Everyone needs a browser
+firefox-esr
 firefox
 
 #music player

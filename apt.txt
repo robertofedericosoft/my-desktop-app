@@ -20,7 +20,8 @@ snapd
 
 #
 software-properties-common
-#libglu1-mesa 
+#libglu1-mesa
+at-spi2-core
 gnome-terminal
 
 #

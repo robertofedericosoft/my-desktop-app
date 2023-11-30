@@ -11,4 +11,6 @@ dependencies:
       - distro
   - ipywidgets
   - ocl-icd-system
+  - networkx
+  - matplotlib
  

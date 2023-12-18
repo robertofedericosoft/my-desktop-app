@@ -8,6 +8,7 @@ xfce4
 
 # Everyone needs a browser
 #firefox-nightly
+palemoon
 
 #music player
 #cmus

@@ -1,6 +1,6 @@
 #!/bin/bash
 set -euo pipefail
-
+RUN useradd -ms /bin/bash linuxbrew
 mkdir -p $HOME/Desktop
 mkdir -p $HOME/linuxbrew/.linuxbrew
 

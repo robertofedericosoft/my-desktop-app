@@ -2,7 +2,7 @@
 set -euo pipefail
 
 mkdir -p $HOME/Desktop
-mkdir -p $HOME/linuxbrew
+mkdir -p $HOME/linuxbrew/.linuxbrew
 
 # Copy desktop files over on container start rather than on postBuild
 # In JupyterHubs, $HOME in build time is not available during runtime

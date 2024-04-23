@@ -9,7 +9,7 @@ xfce4
 # Everyone needs a browser
 #firefox-nightly
 #palemoon
-cog
+qutebrowser
 
 #music player
 #cmus
@@ -17,15 +17,15 @@ libsox-fmt-all
 iputils-ping
 
 #tools
-strace #Debian/Ubuntu
-bc
-snapd
-
-#
 software-properties-common
-#libglu1-mesa
-at-spi2-core
-gnome-terminal
+libxss1
+libpci3
+libasound2
+fonts-ubuntu
+qutebrowser
+htop
+nano
+libgles2
 
 #
 unzip
